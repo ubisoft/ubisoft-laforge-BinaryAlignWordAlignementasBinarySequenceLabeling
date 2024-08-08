@@ -61,8 +61,10 @@ bash eval.sh
 }
 ```
 
-© [2024] Ubisoft Entertainment. All Rights Reserved
+
 
 ## License
 
-See Licence File
+See Licence File - CC4.0 non commercial
+
+© [2024] Ubisoft Entertainment. All Rights Reserved
