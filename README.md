@@ -42,12 +42,12 @@ bash eval.sh
 
 | Training Languages |Link |
 | ------------- | ------------- |
-| Align6 |  models/ |
-| deen |   models/ |
-| roen |   models/ |
-| fren |   models/ |
-| zhen |   models/ |
-| jaen |   models/ |
+| Align6 |  models/align6 |
+| deen |   models/deen |
+| roen |   models/roen |
+| fren |   models/fren |
+| zhen |   models/zhen |
+| jaen |   models/jaen |
 
 ## Citation
 

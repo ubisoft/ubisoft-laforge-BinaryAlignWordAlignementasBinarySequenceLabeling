@@ -10,7 +10,7 @@ SAVE_PATH=$PROJECT_DIR/models/XXX
 LOG_DIR=$PROJECT_DIR/logs/XXX
 
 
-accelerate launch train.py \
+python train.py \
     --train_path $DATA_PATH/train/$LANG \
     --eval_path $DATA_PATH/dev/$LANG \
     --model_path $MODEL_PATH \

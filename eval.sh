@@ -2,7 +2,7 @@ DATA_PATH=XXXX
 LANG=deen
 MODEL_PATH=XXXX
 
-accelerate launch train.py \
+python train.py \
     --eval_path $DATA_PATH/dev/$LANG \
     --model_path $MODEL_PATH \
     --threshold .5 \
