@@ -1,3 +1,4 @@
+© [2024] Ubisoft Entertainment. All Rights Reserved
 # BinaryAlign: Word Alignment as Binary Sequence Labeling
 
 ## Introduction
@@ -60,6 +61,8 @@ bash eval.sh
 }
 ```
 
+© [2024] Ubisoft Entertainment. All Rights Reserved
+
 ## License
 
-TO ADD
+See Licence File
